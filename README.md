@@ -1,9 +1,10 @@
-# StudentResultRecordingSystem
-Group Members:Nankabirwa Patience-2500715512
-Ahereza Alvis-2500714852
-Gonza Nelson Travor-2500715039
-Murungi Leticia-2500715292
-Mugaba Mitchelle-2500715252
+# StudentResultRecordingSystem 
+Group Members:Serunkuuma Arnold-2500715636
+Namukwaya Daniella-2500715487
+Muwanguzi Shalom Edwards -2500715317
+Ssengonzi Timothy-2500715664
+Ssambwa Andrew Kalemba-2500715643
+Mulwana Edward-2500715284
 
 
 Concepts Used:
