@@ -4,7 +4,7 @@ Kalemba Andrew Ssambwa-2500715643
 Muwanguzi Shalom Edwards-2500715317
 Serunkuuma Arnold-2500715637
 Mulwana Edward-2500715284
-
+Sengoonzi Timothy-2500715664
 
 Concepts Used:
 •For loop-used to loop through different items
